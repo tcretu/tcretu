@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kretzdev
+- 👋 Hi, I’m @tcretu
 - 👀 I’m interested in front+back end web technologies, UX/UI and Android.
 - 🌱 I’m currently learning Typescript.
 - 💞️ I’m looking to collaborate on web projects.
